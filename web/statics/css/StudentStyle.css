@@ -83,12 +83,12 @@ body{font-size:12px; line-height:22px;color:#333;}
 .wzx{width:16px; margin:0 auto; line-height:16px; padding-left:2px;}
 .wzx1{width:11px; margin:0 auto; line-height:12px;padding-left:2px; font-size:11px;}
 .tis{padding:5px;}
-.morebt{ background:url(../images/Student/default/bg_n.jpg) repeat-x bottom; overflow:hidden; _zoom:1; padding:20px 0 0 0; }
+.morebt{ background:url(../Images/Student/default/bg_n.jpg) repeat-x bottom; overflow:hidden; _zoom:1; padding:20px 0 0 0; }
 .morebt ul li{float:left; margin-right:8px;cursor:pointer; line-height:35px;height:35px; }
 .morebt ul li a{text-align:center; display:block; padding:0 15px;}
 .morebt ul li a:hover{color:#fff;}
-.tab1{background:#fff url(../images/Student/default/bgnav.jpg) repeat-x;  font-weight:700;overflow:hidden;border:1px #1573b4 solid;border-bottom:none; position:relative; bottom:-1px; font-size:14px;color:#fff;}
-.tab2{background:#f4fbff url(../images/Student/default/bg_nav2.jpg) repeat-x bottom;border:1px #bed9f0 solid;border-bottom:none;   font-size:14px;color:#0561a2; height:32px; overflow:hidden;}
+.tab1{background:#fff url(../Images/Student/default/bgnav.jpg) repeat-x;  font-weight:700;overflow:hidden;border:1px #1573b4 solid;border-bottom:none; position:relative; bottom:-1px; font-size:14px;color:#fff;}
+.tab2{background:#f4fbff url(../Images/Student/default/bg_nav2.jpg) repeat-x bottom;border:1px #bed9f0 solid;border-bottom:none;   font-size:14px;color:#0561a2; height:32px; overflow:hidden;}
 .acc_data{padding:20px 0;}
 .table_style{width:90%; margin:0 auto;}
 .table_style td{padding:5px;}
@@ -237,27 +237,27 @@ body{font-size:12px; line-height:22px;color:#333;}
 .jhpic b a:hover{color:#c00;}
 .jhpic span img{width:215px; height:125px; margin:0 0 5px 0; display:block;}
 
-.jhbox{overflow:hidden; _zoom:1; width:795px; padding:30px 23px 20px 5px; background:#f3fcff url(../images/Student/default/bg_jh.jpg) no-repeat top center; border:1px #4da3e0 solid;}
-.LeftBotton{background:url(../images/Student/default/h_pro_jt.jpg) no-repeat left center; float:left;  width:18px; height:88px; cursor:pointer; display:inline; margin:25px 20px 0 25px; }
-.RightBotton{background:url(../images/Student/default/h_pro_jt1.jpg) no-repeat right center; float:right; width:18px; height:88px; cursor:pointer; display:inline;  margin:25px 0 0 0px;}
+.jhbox{overflow:hidden; _zoom:1; width:795px; padding:30px 23px 20px 5px; background:#f3fcff url(../Images/Student/default/bg_jh.jpg) no-repeat top center; border:1px #4da3e0 solid;}
+.LeftBotton{background:url(../Images/Student/default/h_pro_jt.jpg) no-repeat left center; float:left;  width:18px; height:88px; cursor:pointer; display:inline; margin:25px 20px 0 25px; }
+.RightBotton{background:url(../Images/Student/default/h_pro_jt1.jpg) no-repeat right center; float:right; width:18px; height:88px; cursor:pointer; display:inline;  margin:25px 0 0 0px;}
 .Cont1{width:704px; height:150px; overflow:hidden; float:left; position:relative;}
 .jindu{position:absolute; bottom:0; left:0; width:215px; background:#000; color:#fff; }
 .jindu div{margin:0; border-left:none; border-right:none;}
 .dhbg{padding-top:20px; overflow:hidden; _zoom:1;}
-.dh1{background:url(../images/Student/default/b1.jpg) no-repeat; width:399px; height:214px; float:left;}
-.dh1:hover{background:url(../images/Student/default/b1_1.jpg) no-repeat;}
-.dh2:hover{background:url(../images/Student/default/b2_1.jpg) no-repeat;}
-.dh3:hover{background:url(../images/Student/default/b3_1.jpg) no-repeat;}
-.dh4:hover{background:url(../images/Student/default/b4_1.jpg) no-repeat;}
-.dh2{background:url(../images/Student/default/b2.jpg) no-repeat; width:399px; height:214px; float:left;}
-.dh3{background:url(../images/Student/default/b3.jpg) no-repeat; width:399px; height:214px; float:left;}
-.dh4{background:url(../images/Student/default/b4.jpg) no-repeat; width:399px; height:214px; float:left;}
+.dh1{background:url(../Images/Student/default/b1.jpg) no-repeat; width:399px; height:214px; float:left;}
+.dh1:hover{background:url(../Images/Student/default/b1_1.jpg) no-repeat;}
+.dh2:hover{background:url(../Images/Student/default/b2_1.jpg) no-repeat;}
+.dh3:hover{background:url(../Images/Student/default/b3_1.jpg) no-repeat;}
+.dh4:hover{background:url(../Images/Student/default/b4_1.jpg) no-repeat;}
+.dh2{background:url(../Images/Student/default/b2.jpg) no-repeat; width:399px; height:214px; float:left;}
+.dh3{background:url(../Images/Student/default/b3.jpg) no-repeat; width:399px; height:214px; float:left;}
+.dh4{background:url(../Images/Student/default/b4.jpg) no-repeat; width:399px; height:214px; float:left;}
 .dhwz{padding:60px 0 0 120px; line-height:24px;}
-.dhwz p{background:url(../images/Student/default/ico1.jpg) no-repeat 0 10px; padding-left:10px;}
+.dhwz p{background:url(../Images/Student/default/ico1.jpg) no-repeat 0 10px; padding-left:10px;}
 .btright{text-align:right; border-top:1px #ddd dotted; padding:10px 10px 0 0; margin:10px 20px 0 0;}
-.xxlc{background:url(../images/Student/default/bg_lc.jpg) repeat-x bottom; overflow:hidden; _zoom:1}
-.lcbt{background:url(../images/Student/default/ico2.jpg) no-repeat 0 0; padding:2px 5px 6px 25px; font-size:16px; color:#077fcd; border-bottom:2px #459ee0 solid; display:block; float:left;}
-.lcbiao{height:48px; background:url(../images/Student/default/lc.jpg) repeat-x bottom; margin:20px 0 0 0; padding-left:50px;}
-.lctime{width:100px; height:48px; background:url(../images/Student/default/lc2.jpg) no-repeat center bottom; float:left; text-align:center;cursor:pointer;}
-.lctime2{width:100px; height:48px; background:url(../images/Student/default/lc1.jpg) no-repeat center bottom; float:left; text-align:center; color:#0066CC; font-weight:700; cursor:pointer;}
+.xxlc{background:url(../Images/Student/default/bg_lc.jpg) repeat-x bottom; overflow:hidden; _zoom:1}
+.lcbt{background:url(../Images/Student/default/ico2.jpg) no-repeat 0 0; padding:2px 5px 6px 25px; font-size:16px; color:#077fcd; border-bottom:2px #459ee0 solid; display:block; float:left;}
+.lcbiao{height:48px; background:url(../Images/Student/default/lc.jpg) repeat-x bottom; margin:20px 0 0 0; padding-left:50px;}
+.lctime{width:100px; height:48px; background:url(../Images/Student/default/lc2.jpg) no-repeat center bottom; float:left; text-align:center;cursor:pointer;}
+.lctime2{width:100px; height:48px; background:url(../Images/Student/default/lc1.jpg) no-repeat center bottom; float:left; text-align:center; color:#0066CC; font-weight:700; cursor:pointer;}
 .xxjl{padding:30px;font-size:14px; line-height:30px; text-align:center;}

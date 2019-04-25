@@ -40,8 +40,10 @@
 		<property name="suffix" value=".jsp"></property>
 	</bean>
 
-	<!-- 配置静态资源文件
-	<mvc:resources location="/statics/" mapping="/statics/**"></mvc:resources> -->
+	<!-- 配置静态资源文件-->
+	<mvc:resources location="./statics/" mapping="/statics/**"></mvc:resources>
+
+
 
 	<!-- 配置全局异常处理 -->
 	<bean

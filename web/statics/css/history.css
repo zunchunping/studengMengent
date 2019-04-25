@@ -18,22 +18,22 @@ a { outline:none; } /*针对firefox等*/
 
 .main { padding:45px 0; min-height:720px; }
 /*history*/
-.history { background:url(../images/ks/line04.gif) repeat-y 187px 0; overflow:hidden; position:relative;}
+.history { background:url(../Images/ks/line04.gif) repeat-y 187px 0; overflow:hidden; position:relative;}
 .history-date { overflow:hidden;}
-.history-date h2 { background:url(../images/ks/icon06.gif) #fff no-repeat 158px 0; height:59px; font-size:25px; font-weight:normal; padding-left:45px; margin-bottom:74px;  }
+.history-date h2 { background:url(../Images/ks/icon06.gif) #fff no-repeat 158px 0; height:59px; font-size:25px; font-weight:normal; padding-left:45px; margin-bottom:74px;  }
 .history-date h2.first {  left:0; top:0; width:935px; z-index:99;}
-.history-date h2 a { color:#00bbff; display:inline-block; *display:inline; zoom:1; background:url(../images/ks/icon08.gif) no-repeat right 50%; padding-right:17px; margin:21px 97px 0 0;}
+.history-date h2 a { color:#00bbff; display:inline-block; *display:inline; zoom:1; background:url(../Images/ks/icon08.gif) no-repeat right 50%; padding-right:17px; margin:21px 97px 0 0;}
 .history-date h2 a:hover { text-decoration:none;}
 .history-date h2 img { vertical-align:-5px;}
 .history-date h2.date02 { background:none;}
 .history-date ul {}
-.history-date ul li { background:url(../images/ks/icon07.gif) no-repeat 180px 0; padding-bottom:50px; zoom:1; }
+.history-date ul li { background:url(../Images/ks/icon07.gif) no-repeat 180px 0; padding-bottom:50px; zoom:1; }
 .history-date ul li.last { padding-bottom:0;}
 .history-date ul li:after{content:" "; display:block; height:0; clear:both; visibility:hidden;}
 .history-date ul li h3 { float:left; width:168px; text-align:right; padding-right:19px;color:#c3c3c3; font:normal 18px/16px Arial;}
 .history-date ul li h3 span { display:block; color:#d0d0d0; font-size:12px;}
 .history-date ul li dl { float:left; margin-left:41px; margin-top:-5px; border:1px #d2d2d2 solid; padding:12px 15px; position:relative;}
-.time_ico{position:absolute; background:url(../images/ks/time_line_arrow_left.png) no-repeat 0 0; width:7px; height:10px; top:10px; left:-7px;}
+.time_ico{position:absolute; background:url(../Images/ks/time_line_arrow_left.png) no-repeat 0 0; width:7px; height:10px; top:10px; left:-7px;}
 .history-date ul li dl dt { color:#737373; }
 .history-date ul li dl dt span { display:block; color:#787878; font-size:12px;}
 .history-date ul li.green h3 { color:#1db702;width:160px; float:left;}

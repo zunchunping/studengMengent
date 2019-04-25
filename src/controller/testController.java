@@ -9,8 +9,8 @@ public class testController {
 
     @RequestMapping("index")
     public String show(){
-
-        return "hello";
+ System.out.println("****************************");
+        return "MyInfo/Index";
     }
 
 }
