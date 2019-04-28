@@ -2,6 +2,7 @@ package entity;
 
 import java.util.Date;
 
+
 //记录表
 public class Activation_Record {
     private Integer ac_re_id;

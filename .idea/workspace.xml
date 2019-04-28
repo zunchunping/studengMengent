@@ -8,6 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="628cfdf9-e3f4-4726-aedb-ed421208bab6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/Activation_Record.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Activation_Record.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +22,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/entity/Gard.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+            <state relative-caret-position="420">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/entity/Activation_Record.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -58,6 +68,7 @@
         <option value="$PROJECT_DIR$/src/controller/testController.java" />
         <option value="$PROJECT_DIR$/src/springmvc.xml" />
         <option value="$PROJECT_DIR$/web/WEB-INF/jsp/MyInfo/Index.jsp" />
+        <option value="$PROJECT_DIR$/src/entity/Activation_Record.java" />
       </list>
     </option>
   </component>
@@ -72,9 +83,9 @@
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="5" />
-    <option name="y" value="25" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-102" />
+    <option name="y" value="23" />
     <option name="width" value="1386" />
     <option name="height" value="788" />
   </component>
@@ -84,8 +95,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -104,10 +113,23 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="entity" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="stu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stu" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stu" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -244,6 +266,9 @@
       <workItem from="1556178760429" duration="509000" />
       <workItem from="1556181409135" duration="1798000" />
       <workItem from="1556184424410" duration="285000" />
+      <workItem from="1556255894982" duration="3736000" />
+      <workItem from="1556342506906" duration="1946000" />
+      <workItem from="1556427885808" duration="503000" />
     </task>
     <task id="LOCAL-00001" summary="studentManerger">
       <created>1556023381331</created>
@@ -273,16 +298,30 @@
       <option name="project" value="LOCAL" />
       <updated>1556181607801</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="studentManerger的js等">
+      <created>1556255926473</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1556255926473</updated>
+    </task>
+    <task id="LOCAL-00006" summary="studentManerger的js等">
+      <created>1556257603617</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1556257603617</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21942000" />
+    <option name="totallyTimeSpent" value="28127000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="175" y="0" width="1750" height="995" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26804733" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28290468" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -301,11 +340,11 @@
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49932975" weight="0.32960895" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50226927" side_tool="true" visible="true" weight="0.2557377" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3282123" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32960895" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
-      <window_info anchor="bottom" id="Version Control" order="15" visible="true" weight="0.22415796" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="15" sideWeight="0.4977307" visible="true" weight="0.2557377" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -379,13 +418,19 @@
     <entry file="file://$PROJECT_DIR$/src/applicationContext.xml" />
     <entry file="file://$PROJECT_DIR$/src/springmvc.xml" />
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/MyInfo/Index.jsp" />
-    <entry file="file://$PROJECT_DIR$/src/entity/Activation_Record.java" />
     <entry file="file://$PROJECT_DIR$/src/database.properties" />
     <entry file="file://$PROJECT_DIR$/src/controller/testController.java" />
     <entry file="file://$PROJECT_DIR$/src/entity/Gard.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        <state relative-caret-position="420">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entity/Activation_Record.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
