@@ -1,7 +1,7 @@
 package entity;
 
 public class ClassName {
-    private Integer class_id;
+    private Integer class_id;//主键
 
     private Integer gard_id;
 
